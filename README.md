@@ -1,16 +1,131 @@
 <h1 align="center">Привет всем, меня зовут Егор!
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center"> Добро пожаловать на мой GitHub. 🇷🇺</h3>
-<h3 align="left"> Разработка приложений - это не работа, это стиль жизни, это когда ты учишься тому, что тебе нравится и что приносит удовольствие, всегда и везде. Сейчас я разрабатываю backend  сайта Foodgram  на Python.</h3>
-<h3 align="left">В настоящее время я ищу новую работу. Пишите в телеграм.</h3>
-<h3 align="left">Ключевые навыки:</h3>
-<div>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" title="Django" alt="Django" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="postgresql" alt="postgresql" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg" title="nginx" alt="nginx" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" title="css3" alt="css3" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="html5" alt="html5" width="40" height="40"/>&nbsp;
+<h2 align="center"> Добро пожаловать на мой GitHub. 🇷🇺</h2>
+<h3>Последние 2 года работал инженером в строительной сфере. Понял что работа не приносит былого удовольствия, все дни стали похожи друг на друга, что могло сказаться на эффективность работы. Нужно было что-то менять. Начал изучать верстку сайтов затем решил пойти дальше и записался на курсы Яндекс.Практикума, курс Python-разработчик. Втянулся в процесс разработки, понравилось написание бэкенд приложения.</h3>
+<h3>В настоящее время я ищу новую работу.</h3>
 
-</div>
+<h3>
+  <img
+    align="top"
+    width="3%"
+    src="https://cdn-0.emojis.wiki/wp-content/uploads/2020/12/keyboard.gif"
+  >
+    Languages and Tools:
+</h3>
+<ul align="center">
+  <img
+    align="top"
+    alt="Python"
+    width="62px"
+    src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"
+  />
+  <img
+    align="top"
+    alt="Django"
+    width="58px"
+    src="https://www.bairesdev.com/wp-content/uploads/2019/04/img-django-logo.png" 
+  />
+  <img
+    align="top"
+    alt="Heroku"
+    width="52px"
+    src="https://raw.githubusercontent.com/github/explore/cb661bc288627f05a5ac4187b00495fd8048c9fa/topics/heroku/heroku.png"
+  >
+  <img
+    align="top"
+    alt="Docker"
+    width="52px"
+    src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"
+  >
+  <img
+    align="top"
+    alt="JSON"
+    width="52px"
+    src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/json/json.png"
+  >
+  <img
+    align="top"
+    alt="Nginx"
+    width="52px"
+    src="https://raw.githubusercontent.com/github/explore/85cceaeeaf993ca35664dc37ea24f9237fbbfc14/topics/nginx/nginx.png"
+  >
+  <img
+    align="top"
+    alt="Git"
+    width="52px"
+    src="https://stacksnap.com/media/git.png"
+  >
+  <img
+    align="top"
+    alt="SQL"
+    width="52px"
+    src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"
+  >
+  <img
+    align="top"
+    alt="HTML5"
+    width="56px"
+    src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"
+  >
+  <img
+       align="top"
+        alt="CSS"
+        width="56px"
+        src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"
+  />
+  <!-- <img
+    alt="Bootstrap"
+    width="52px"
+    src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"
+  /> -->
+</ul>  
+<hr>
+
+
+
+<ul align="center">
+  <a href="https://www.codewars.com/users/Mikhail-Kushnerev">
+    <img
+      alt="Codewars"
+      align="center"
+      src="https://www.codewars.com/users/emar/badges/large"
+    >
+  </a>
+</ul>
+
+<hr> 
+  
+<details>  
+  <summary>
+    <img
+      align="center"
+      width="3%"
+      src="https://cdn-0.emojis.wiki/wp-content/uploads/2020/12/open-mailbox-with-raised-flag.gif"
+    />
+      How to contact with me:
+  </summary>
+  <br />
+  <ul>
+    <a href="mailto:maretskiy.egor@yandex.ru">
+      <img  
+        alt="e-mail"
+        width="28px"
+        src="https://avatars.mds.yandex.net/get-yapic/65952/enc-15316b863572ed0621d22e21b5015b6240d1ce8bc24252de87363a92be86f01b/islands-retina-50" 
+      />
+    </a>
+    <a href="https://t.me/emarpoint">
+      <img
+        alt="telegram"
+        width="26px"
+        src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/telegram/telegram.png"
+      />
+    </a>
+    <a href="https://wa.me/79778002143">
+      <img
+        alt="WhatsApp"
+        width="28px"
+        src="https://raw.githubusercontent.com/github/explore/fbea3555736cd38170cc0be88424d129741ffbb9/topics/whatsapp/whatsapp.png"
+      />
+       </ul>
+</details>
+      
