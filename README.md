@@ -84,7 +84,7 @@
 
 
 <ul align="center">
-  <a href="https://www.codewars.com/users/Mikhail-Kushnerev">
+  <a href="https://www.codewars.com/users/emar">
     <img
       alt="Codewars"
       align="center"
