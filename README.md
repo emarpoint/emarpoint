@@ -18,13 +18,13 @@
     alt="Python"
     width="62px"
     src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"
-  />
+  >
   <img
     align="top"
     alt="Django"
     width="58px"
     src="https://www.bairesdev.com/wp-content/uploads/2019/04/img-django-logo.png" 
-  />
+  >
   <img
     align="top"
     alt="Heroku"
@@ -72,16 +72,47 @@
         alt="CSS"
         width="56px"
         src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"
-  />
-  <!-- <img
-    alt="Bootstrap"
-    width="52px"
-    src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"
-  /> -->
+  >
 </ul>  
-<hr>
 
+<!-- TABLES -->
 
+<div style="display: inline_block">
+  <table align="center">
+    <tr align="center"> <!-- Строка №1 -->
+      <td> <!-- Столбец №1 -->
+        <a href="https://practicum.yandex.ru/trainer/python-developer-plus/lesson/91c0af5b-d616-47e9-81ba-01ed0d62910c/"> Yandex.Practicum </a> 
+      </td>
+    </tr> 
+    <tr> <!-- Строка №1 -->
+      <td>
+        <a href="https://github.com/emarpoint/foodgram-project-react"> FoodGram </a>
+      </td>
+    </tr>
+    <tr> <!-- Строка №2 -->
+      <td>
+        <a href="https://github.com/emarpoint/homework_bot"> API-Telegram Bot </a>&nbsp;&nbsp;
+      </td>
+    </tr> 
+    <tr> <!-- Строка №3 -->
+      <td> 
+        <a href="https://github.com/emarpoint/homework_bot"> homework-bot </a>
+      </td>
+    </tr> 
+    <tr> <!-- Строка №4 -->
+      <td> 
+        <a href="https://github.com/emarpoint/Cash-Calories-Calculator"> Cash & Calories Calculator </a>
+      </td>
+    </tr> 
+    <tr> <!-- Строка №5 -->
+      <td>
+        <a href="https://github.com/emarpoint/API-YaMDB"> Yatube (Social Network) </a>
+      </td>
+    </tr> 
+  </table>
+</div>
+
+<!-- Задачки -->
 
 <ul align="center">
   <a href="https://www.codewars.com/users/emar">
@@ -92,8 +123,6 @@
     >
   </a>
 </ul>
-
-<hr> 
   
 <details>  
   <summary>
@@ -126,6 +155,5 @@
         width="28px"
         src="https://raw.githubusercontent.com/github/explore/fbea3555736cd38170cc0be88424d129741ffbb9/topics/whatsapp/whatsapp.png"
       />
-       </ul>
-</details>
-      
+  </ul>
+</details> 
