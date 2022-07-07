@@ -131,7 +131,7 @@
       width="3%"
       src="https://cdn-0.emojis.wiki/wp-content/uploads/2020/12/open-mailbox-with-raised-flag.gif"
     />
-      How to contact with me:
+      Контакты:
   </summary>
   <br />
   <ul>
