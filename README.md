@@ -96,17 +96,12 @@
         <a href="https://github.com/emarpoint/homework_bot"> API-Telegram Bot </a>&nbsp;&nbsp;
       </td>
     </tr> 
-    <tr> <!-- Строка №3 -->
-      <td> 
-        <a href="https://github.com/emarpoint/homework_bot"> homework-bot </a>
-      </td>
-    </tr> 
-    <tr> <!-- Строка №4 -->
+   <tr> <!-- Строка №3 -->
       <td> 
         <a href="https://github.com/emarpoint/Cash-Calories-Calculator"> Cash & Calories Calculator </a>
       </td>
     </tr> 
-    <tr> <!-- Строка №5 -->
+    <tr> <!-- Строка №4 -->
       <td>
         <a href="https://github.com/emarpoint/API-YaMDB"> Yatube (Social Network) </a>
       </td>
