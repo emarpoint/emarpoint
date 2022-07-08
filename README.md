@@ -98,7 +98,7 @@
     </tr> 
    <tr> <!-- Строка №3 -->
       <td> 
-        <a href="https://github.com/emarpoint/Cash-Calories-Calculator"> Cash & Calories Calculator </a>
+        <a href="https://github.com/emarpoint/hw_python_oop"> Cash & Calories Calculator </a>
       </td>
     </tr> 
     <tr> <!-- Строка №4 -->
