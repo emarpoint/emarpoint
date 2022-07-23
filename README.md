@@ -89,7 +89,7 @@
   <table align="center">
     <tr align="center"> <!-- Строка №1 -->
       <td> <!-- Столбец №1 -->
-        <a href="https://practicum.yandex.ru/trainer/python-developer-plus/lesson/91c0af5b-d616-47e9-81ba-01ed0d62910c/"> Yandex.Practicum </a> 
+        <a href="https://practicum.yandex.ru/backend-developer/"> Yandex.Practicum </a> 
       </td>
     </tr> 
     <tr> <!-- Строка №1 -->
